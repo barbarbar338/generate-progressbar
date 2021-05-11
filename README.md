@@ -5,7 +5,7 @@
 [![issues](https://img.shields.io/github/issues/barbarbar338/generate-progressbar?color=red&logo=github&style=for-the-badge)](https://github.com/barbarbar338/generate-progressbar)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/barbarbar338/generate-progressbar/main/icon.png" alt="Logo" width="160" height="160" />
+  <img src="https://raw.githubusercontent.com/barbarbar338/readme-template/main/icon.png" alt="Logo" width="160" height="160" />
   <h3 align="center">Simple Progressbar</h3>
 
   <p align="center">
